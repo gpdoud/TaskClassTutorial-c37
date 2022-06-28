@@ -1,0 +1,15 @@
+C:\repos\TaskClassTutorial\bin\Release\net6.0\TaskTutorial.exe
+C:\repos\TaskClassTutorial\bin\Release\net6.0\TaskTutorial.deps.json
+C:\repos\TaskClassTutorial\bin\Release\net6.0\TaskTutorial.runtimeconfig.json
+C:\repos\TaskClassTutorial\bin\Release\net6.0\TaskTutorial.dll
+C:\repos\TaskClassTutorial\bin\Release\net6.0\TaskTutorial.pdb
+C:\repos\TaskClassTutorial\obj\Release\net6.0\TaskTutorial.csproj.AssemblyReference.cache
+C:\repos\TaskClassTutorial\obj\Release\net6.0\TaskTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\TaskClassTutorial\obj\Release\net6.0\TaskTutorial.AssemblyInfoInputs.cache
+C:\repos\TaskClassTutorial\obj\Release\net6.0\TaskTutorial.AssemblyInfo.cs
+C:\repos\TaskClassTutorial\obj\Release\net6.0\TaskTutorial.csproj.CoreCompileInputs.cache
+C:\repos\TaskClassTutorial\obj\Release\net6.0\TaskTutorial.dll
+C:\repos\TaskClassTutorial\obj\Release\net6.0\refint\TaskTutorial.dll
+C:\repos\TaskClassTutorial\obj\Release\net6.0\TaskTutorial.pdb
+C:\repos\TaskClassTutorial\obj\Release\net6.0\TaskTutorial.genruntimeconfig.cache
+C:\repos\TaskClassTutorial\obj\Release\net6.0\ref\TaskTutorial.dll
